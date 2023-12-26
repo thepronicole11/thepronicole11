@@ -3,7 +3,7 @@
    - Full Stack Development
    - Ai artwork
  - 🌱 I’m currently learning...
-   - ✨ JavaScript
+   - ✨ [JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
    - ✨ HTML
    - ✨ CSS
    - ✨ React
