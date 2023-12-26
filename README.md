@@ -1,4 +1,5 @@
-<h1> Hi, I’m The Professional Nicole and I use:</h1>
+<img  src="https://www.canva.com/design/DAFodT8jOPs/view" />
+ <h1> Hi, I’m The Professional Nicole and I use:</h1>
 	<div align="center"> 
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5v1AyOoPcd2q8rVnFm3CA-MGSFyvcHZ6evb8AubuDw&s" alt="macOS" title="macOS"/> 
