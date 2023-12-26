@@ -1,16 +1,17 @@
  - 👋 Hi, I’m The Professional Nicole
  - 👀 I’m interested in...
-  - Full Stack Development
+   - Full Stack Development
+   - Ai artwork
  - 🌱 I’m currently learning...
-  - ✨ JavaScript
-  - ✨ HTML
-  - ✨ CSS
-  - ✨ React
-  - ✨ Python
-  - ✨ SQLite
-  - ✨ SQLAlchemy
-  - ✨ Flask
-  - ✨ P5
+   - ✨ JavaScript
+   - ✨ HTML
+   - ✨ CSS
+   - ✨ React
+   - ✨ Python
+   - ✨ SQLite
+   - ✨ SQLAlchemy
+   - ✨ Flask
+   - ✨ P5
 - 💞️ I’m looking to collaborate on ...
   - ✨ Eccommerce projects
   - ✨ Project Management Projects
