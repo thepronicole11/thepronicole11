@@ -3,7 +3,7 @@
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 		<img width="30" src="https://www.clipartmax.com/png/small/184-1849415_apple-logo-white-512x512-icon-apple-icon-png-white.png" alt="macOS" title="macOS"/> 
  	</div>
-<code><h1> I am fully equipped with:</h1></code>
+<h1><code>I am fully equipped with:</code></h1>
 <h2 align="center">Front-End:</h2>
 	<div align="center">
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
