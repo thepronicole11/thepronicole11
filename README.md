@@ -8,7 +8,7 @@
    - ✨ CSS
    - ✨ React
    - ✨ Python
-   - ✨ SQLite
+   - ✨ SQL
    - ✨ SQLAlchemy
    - ✨ Flask
    - ✨ P5
