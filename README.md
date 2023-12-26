@@ -32,7 +32,7 @@
 	</div>
 <h1><code> Interested in learning:</code></h1>
    	<div align="center">
-		<img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+		<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
   	</div>
 
 <!---
