@@ -1,18 +1,18 @@
  - 👋 Hi, I’m The Professional Nicole
  - 👀 I’m interested in Full Stack Development
  - 🌱 I’m currently learning...
-    ✨ JavaScript
-    ✨ HTML
-    ✨ CSS
-    ✨ React
-    ✨ Python
-    ✨ SQLite
-    ✨ SQLAlchemy
-    ✨ Flask
-    ✨ P5
+  - ✨ JavaScript
+  - ✨ HTML
+  - ✨ CSS
+  - ✨ React
+  - ✨ Python
+  - ✨ SQLite
+  - ✨ SQLAlchemy
+  - ✨ Flask
+  - ✨ P5
 - 💞️ I’m looking to collaborate on ...
-    ✨ Eccommerce projects
-    ✨ Project Management Projects
+  - ✨ Eccommerce projects
+  - ✨ Project Management Projects
 - 📫 How to reach me : [(https://www.linkedin.com/in/thepronicole888/)]
 <!---
 thepronicole11/thepronicole11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
