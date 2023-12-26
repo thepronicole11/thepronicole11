@@ -1,5 +1,6 @@
  - 👋 Hi, I’m The Professional Nicole
- - 👀 I’m interested in Full Stack Development
+ - 👀 I’m interested in...
+  - Full Stack Development
  - 🌱 I’m currently learning...
   - ✨ JavaScript
   - ✨ HTML
