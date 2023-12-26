@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m The Professional Nicole and I use:</h1>
 	<div align="center"> 
-		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+		<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
  	</div>
 <h1> I am fully equipped with:</h1>
 <h2 align="center">Front-End:</h2>
