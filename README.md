@@ -1,8 +1,8 @@
 <img  src="https://i.pinimg.com/originals/49/69/9a/49699a283080cbddac695c3d06bbd7a0.png"/> 
  <h1><code> Hi, I’m The Professional Nicole and I use:</code></h1>
 	<div align="center"> 
-		<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5v1AyOoPcd2q8rVnFm3CA-MGSFyvcHZ6evb8AubuDw&s" alt="macOS" title="macOS"/> 
+		<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+		<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5v1AyOoPcd2q8rVnFm3CA-MGSFyvcHZ6evb8AubuDw&s" alt="macOS" title="macOS"/> 
  	</div>
 <h1><code> I am fully equipped with:</code></h1>
 <h2 align="center">Front-End:</h2>
