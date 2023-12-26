@@ -1,8 +1,6 @@
  - 👋 Hi, I’m The Professional Nicole
  - 👀 I’m interested in...
-   - Full Stack Development
-   - Ai artwork
- - 🌱 I’m currently learning...
+   <h1> I am fully equipped with:</h1>
    <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
