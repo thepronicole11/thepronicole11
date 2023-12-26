@@ -1,10 +1,10 @@
 <img  src="https://i.pinimg.com/originals/49/69/9a/49699a283080cbddac695c3d06bbd7a0.png"/> 
- <h1> Hi, I’m The Professional Nicole and I use:</h1>
+ <h1><code> Hi, I’m The Professional Nicole and I use:</code></h1>
 	<div align="center"> 
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5v1AyOoPcd2q8rVnFm3CA-MGSFyvcHZ6evb8AubuDw&s" alt="macOS" title="macOS"/> 
  	</div>
-<h1><code color='255'>I am fully equipped with:</code></h1>
+<h1><code>I am fully equipped with:</code></h1>
 <h2 align="center">Front-End:</h2>
 	<div align="center">
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
@@ -30,7 +30,7 @@
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	</div>
-<h1>I’m interested in learning:</h1>
+<h1><code> Interested in learning:</code></h1>
    	<div align="center">
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
   	</div>
