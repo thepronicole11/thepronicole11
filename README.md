@@ -1,8 +1,7 @@
 <h1> Hi, I’m The Professional Nicole and I use:</h1>
 	<div align="center"> 
 		<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-<!-- 		<img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/> -->
-		<img src="https://www.clipartmax.com/png/small/184-1849415_apple-logo-white-512x512-icon-apple-icon-png-white.png" alt="Apple,logo,white,512x512 Icon - Apple Icon Png White @clipartmax.com">
+		<img width="30" src="https://www.clipartmax.com/png/small/184-1849415_apple-logo-white-512x512-icon-apple-icon-png-white.png" alt="macOS" title="macOS"/> 
  	</div>
 <code><h1> I am fully equipped with:</h1></code>
 <h2 align="center">Front-End:</h2>
